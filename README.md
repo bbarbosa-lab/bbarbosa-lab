@@ -45,26 +45,6 @@ I'm actively seeking opportunities as a **Backend Developer** with a strong focu
 
 ---
 
-## 🚀 Short/Medium-Term Goals (Prioritized)
-
-### Priority 1 – DevSecOps + Backend Development
-- Strengthen backend development skills in Python
-- Deepen DevSecOps practices (secure pipelines, SAST/DAST, secret management)
-- Build tools and automations that connect development and security
-- Pursue Backend Developer opportunities with a security/DevSecOps profile
-
-### Priority 2 – Red Team / Offensive Security (Future Path)
-- Expand knowledge in Active Directory pentesting, evasion, and post-exploitation
-- Develop custom Python tooling for offensive scenarios
-- Conduct practical labs and document write-ups (HTB, TryHackMe, homelab)
-- Progress toward recognized certifications (eJPT → PNPT/OSCP path)
-
-### Cross-cutting Goal
-- Contribute to the security and development community
-- Keep public portfolio updated with practical and well-documented projects
-
----
-
 ## 💡 About this README
 
 This is my professional GitHub profile. I'm seeking opportunities as a **Backend Developer** with a strong interest in **DevSecOps**, combining software development with security practices in pipelines.
