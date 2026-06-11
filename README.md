@@ -4,7 +4,7 @@
 
 I'm a Computer Networks graduate with experience in IT infrastructure and computer networking, currently pursuing a **Postgraduate degree in Cyber Offensive Operations and Red Team Operations**.
 
-I'm actively seeking opportunities as a **Backend Developer** with a strong focus on **DevSecOps**. My goal is to combine software development with security practices in CI/CD pipelines (Shift-Left Security). My background in networks and infrastructure gives me a broader understanding of systems and operations. Python is my primary language for building applications, tools, and automations. I'm also directing part of my studies toward secure development AppSec.
+My goal is to combine software development with security practices in CI/CD pipelines (Shift-Left Security). My background in networks and infrastructure gives me a broader understanding of systems and operations. Python is my primary language for building applications, tools, and automations. I'm also directing part of my studies toward secure development AppSec.
 
 ---
 
