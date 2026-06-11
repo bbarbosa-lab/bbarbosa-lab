@@ -47,7 +47,7 @@ I'm actively seeking opportunities as a **Backend Developer** with a strong focu
 
 ## 💡 About this README
 
-This is my professional GitHub profile. I'm seeking opportunities as a **Backend Developer** with a strong interest in **DevSecOps**, combining software development with security practices in pipelines.
+This is my professional GitHub profile.
 
 All projects here are practical, reproducible, and aim to demonstrate my ability to deliver solutions that bridge development and security.
 
