@@ -38,7 +38,7 @@ My goal is to combine software development with security practices in CI/CD pipe
 - **Superior Education Level in Computer Networks** (Higher Education Level)
   Strong foundation in infrastructure, networking, and systems.
   
-  **Bachelor's in Computer Engineering** (Higher Education Level) - Not concluded (I studied for 3 years)
+- **Bachelor's in Computer Engineering** (Higher Education Level) - Not concluded (I studied for 3 years)
   Strong foundation in math, physics and hardware, 
 
 - **Published Scientific Article**: "Data Processing Center Project" — Revista Tecnológica da FATEC-PR, 2020.
