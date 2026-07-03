@@ -8,7 +8,7 @@ My goal is to combine software development with security practices in CI/CD pipe
 
 ---
 
-## 🎯 Current Focus (Priorities)
+##  Current Focus (Priorities)
 
 ### 1. DevSecOps (Main Focus)
 - Integrating security into CI/CD pipelines using GitHub Actions
@@ -30,7 +30,7 @@ My goal is to combine software development with security practices in CI/CD pipe
 
 ---
 
-## 📚 Education & Background
+##  Education & Background
 
 - **Postgraduate in Cyber Offensive and Red Team Operations** (In progress)  
   Focus on practical offensive security labs and DevSecOps.
@@ -45,7 +45,7 @@ My goal is to combine software development with security practices in CI/CD pipe
 
 ---
 
-## 💡 About this README
+##  About this README
 
 This is my professional GitHub profile.
 
@@ -53,7 +53,7 @@ All projects here are practical, reproducible, and aim to demonstrate my ability
 
 Feel free to reach out for opportunities, collaborations, or feedback.
 
-Thanks for visiting! 🚀
+Thanks for visiting! 
 
 ---
 
