@@ -1,61 +1,105 @@
-# Hi, I'm Bruno Barbosa
+<div align="center">
 
-**DevSecOps • Backend Development • Offensive Cybersecurity**
+# Bruno Barbosa
 
-I'm a Computer Networks graduate with experience in IT infrastructure and computer networking, currently pursuing a **Postgraduate degree in Cyber Offensive Operations and Red Team Operations**.
+**Backend Engineering · Application Security · Infrastructure & DevSecOps**
 
-My goal is to combine software development with security practices in CI/CD pipelines (Shift-Left Security). My background in networks and infrastructure gives me a broader understanding of systems and operations. Python is my primary language for building applications, tools, and automations. I'm also directing part of my studies toward secure development AppSec.
+Computer Networks graduate · Computer Engineering student · Postgraduate in Offensive Security & Red Team Operations
 
----
-
-##  Current Focus (Priorities)
-
-### 1. DevSecOps (Main Focus)
-- Integrating security into CI/CD pipelines using GitHub Actions
-- Secret scanning, SCA, SBOM generation, and pipelines as security gates
-- Applying Shift-Left Security practices in development
-- Tools: Trivy, TruffleHog, GitHub Actions
-
-### 2. Backend Development (Core Pillar)
-- Building applications and APIs with Python
-- Creating security tools and automations
-- Following clean code, modularity, and documentation best practices
-- Developing solutions that bridge development and security
-
-### 3. Red Team / Offensive Security 
-- Practicing offensive techniques and understanding the attacker's perspective
-- Labs focused on Active Directory, evasion, and post-exploitation
-- Developing custom Python tooling
-- OSINT and image forensics analysis
+</div>
 
 ---
 
-##  Education & Background
+Computer Networks graduate with a background in IT infrastructure. Currently pursuing a Bachelor's degree in Computer Engineering and postgraduate studies in Offensive Security and Red Team Operations.
 
-- **Postgraduate in Cyber Offensive and Red Team Operations** (In progress)  
-  Focus on practical offensive security labs and DevSecOps.
+Focused on designing and building reliable backend systems where security is integrated into architecture, implementation, and software delivery — not treated as an afterthought.
 
-- **Superior Education Level in Computer Networks** (Higher Education Level)
-  Strong foundation in infrastructure, networking, and systems.
-  
-- **Bachelor's in Computer Engineering** (Higher Education Level) - Not concluded (I studied for 3 years)
-  Strong foundation in math, physics and hardware, 
+Python is my primary language for application development, automation, and engineering tools. My background in networking and systems shapes how I approach software reliability, attack surfaces, failure modes, and operational constraints.
 
-- **Published Scientific Article**: "Data Processing Center Project" — Revista Tecnológica da FATEC-PR, 2020.
+Offensive security studies provide a practical adversarial perspective used to identify weaknesses, understand attack techniques, and strengthen defensive design and implementation decisions.
 
 ---
 
-##  About this README
+## Current Focus
 
-This is my professional GitHub profile.
+### 1. Backend Engineering
 
-All projects here are practical, reproducible, and aim to demonstrate my ability to deliver solutions that bridge development and security.
+Designing and developing backend applications and APIs with clear domain boundaries, well-defined resource models, and maintainable architecture.
 
-Feel free to reach out for opportunities, collaborations, or feedback.
+**Primary technologies:** Python, FastAPI, PostgreSQL, Redis, and Docker.
 
-Thanks for visiting! 
+**Areas of focus:**
+- REST API design and resource modeling
+- Authentication and authorization mechanisms
+- Database design and transaction management
+- Automated testing and software quality
+- Application architecture and maintainability
+- Error handling, logging, and observability
+
+### 2. Application Security
+
+Integrating security principles throughout the software development lifecycle, from architectural decisions to implementation and testing.
+
+**Areas of focus:**
+- Threat modeling and attack surface analysis
+- Secure authentication and session management
+- Server-side authorization and resource ownership enforcement
+- Input validation and abuse prevention
+- Rate limiting and application hardening
+- Security testing and residual risk documentation
+- Secure coding practices and vulnerability analysis
+
+### 3. Infrastructure & DevSecOps
+
+Understanding, automating, and securing the environments where software is developed, deployed, and operated.
+
+**IT Infrastructure**
+- Computer networks and communication protocols
+- Linux and server administration
+- Systems architecture and troubleshooting
+- Network services and infrastructure security
+
+**Software Infrastructure**
+- Docker and containerization
+- CI/CD pipelines and automation
+- Infrastructure configuration and deployment
+- Environment management and operational reliability
+- Security integration into development workflows
+
+DevSecOps is approached as an engineering practice: integrating automated security controls into the software delivery lifecycle, including SAST, SCA, secret scanning, dependency analysis, and container image scanning.
 
 ---
 
-*Last updated: June 2026*  
-*This README is constantly evolving as I progress in my studies and projects.*
+## Education & Background
+
+- **Computer Engineering** — Bachelor's Degree *(in progress)*  
+  Focus on computer systems, software engineering, hardware, and engineering fundamentals.
+
+- **Offensive Security & Red Team Operations** — Postgraduate Studies *(in progress)*  
+  Focus on offensive security methodologies, vulnerability analysis, penetration testing concepts, and adversarial techniques applied to improve defensive engineering.
+
+- **Computer Networks** — Higher Education Degree  
+  Academic foundation in networking, IT infrastructure, communication protocols, and systems administration.
+
+**Scientific Publication:**  
+Data Processing Center Project — *Revista Tecnológica da FATEC-PR*, 2020.
+
+---
+
+## Engineering Principles
+
+- **Security by Design** — Security is a property of the system architecture, not an isolated feature.
+- **Reliability** — Systems should account for failure modes, dependencies, and operational constraints.
+- **Defense in Depth** — Multiple security controls should protect critical application resources.
+- **Explicit Authorization** — Access control must be enforced server-side and verified through automated tests.
+- **Maintainability** — Code and architecture should remain understandable, testable, and adaptable.
+- **Engineering Documentation** — Technical decisions, assumptions, threats, and residual risks should be documented and explainable.
+- **Adversarial Awareness** — Understanding offensive techniques informs better defensive design and implementation.
+
+---
+
+<div align="center">
+
+*Last updated: November 2026*
+
+</div>
